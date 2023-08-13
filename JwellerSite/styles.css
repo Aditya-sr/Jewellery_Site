@@ -1,0 +1,1227 @@
+.search-bar input{
+    border-radius: 1rem;
+    border: none;
+    letter-spacing: 0.1rem;
+    font-family: Urbanist;
+    font-size: 0.9375rem;
+    position: absolute;
+    top: 0rem;
+    height: 2rem;
+    width: 16rem;
+    opacity: 0.7;
+}
+.necklace a {
+    position: absolute;
+    top: 6.88rem;
+    left: 1.06rem;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+.bracelet a {
+    position: absolute;
+    top: 6.88rem;
+    left: 2.13rem;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+.pendents a {
+    position: absolute;
+    top: 6.88rem;
+    left: 0.13rem;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .earrings1 a {
+    
+    position: absolute;
+   
+    left: 1.25rem;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .ring a {
+    position: absolute;
+    top: 6.88rem;
+    left: 3.25rem;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+.bangles-bracelets,
+.chains,
+.earrings1,
+.gifts,
+.mangalsutra,
+.necklace1,
+.pendants,
+.rings  a{
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.rings  {
+  left: 0;
+  width: 3.88rem;
+}
+.bangles-bracelets,
+.chains,
+.earrings1,
+.gifts,
+.mangalsutra,
+.necklace1,
+.pendants  {
+  left: 6.13rem;
+  width: 5.81rem;
+}
+.bangles-bracelets,
+.chains,
+.gifts,
+.mangalsutra,
+.necklace1,
+.pendants  {
+  left: 14.19rem;
+  width: 6.81rem;
+}
+.bangles-bracelets,
+.chains,
+.gifts,
+.mangalsutra,
+.necklace1  {
+  left: 23.25rem;
+  width: 6.56rem;
+}
+.bangles-bracelets,
+.chains,
+.gifts,
+.mangalsutra  {
+  left: 32.06rem;
+  width: 14.44rem;
+}
+.chains,
+.gifts,
+.mangalsutra  {
+  left: 48.75rem;
+  width: 9.19rem;
+}
+.chains,
+.gifts  {
+  left: 60.19rem;
+  width: 4.94rem;
+}
+.gifts {
+  left: 67.38rem;
+  width: 3.56rem;
+}
+.rings-parent {
+    position: absolute;
+    top: 6.75rem;
+    left: calc(50% - 568px);
+    width: 70.94rem;
+    height: 0.94rem;
+  }
+  .navbar-child {
+    position: absolute;
+    top: 8rem;
+    left: 8.38rem;
+    background-color: var(--red);
+    width: 4.31rem;
+    height: 0.19rem;
+  }
+.instance-child,
+.instance-item {
+  position: relative;
+  width: 2.67rem;
+  height: 2.59rem;
+}
+.instance-item {
+  width: 5.53rem;
+  height: 1.61rem;
+}
+.frame-div {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs);
+  align-items: center;
+  justify-content: center;
+  gap: 0.19rem;
+}
+.rectangle-div {
+  position: absolute;
+  top: calc(50% - 21px);
+  left: 0;
+  border-radius: 25px;
+  background-color: #f9f9f9;
+  width: 41.56rem;
+  height: 2.63rem;
+}
+.vuesaxoutlinesearch-normal-icon {
+  position: absolute;
+  top: 0.56rem;
+  left: 0.5rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.search-bar {
+    width: 13.125rem;
+    height: 1.75rem;
+  position: absolute;
+  top: 0.44rem;
+  left: 2.63rem;
+  line-height: 1.75rem;
+}
+.input{
+    border-radius: 0.75rem;
+    height: 1.75rem;
+    width: 13.125rem;
+}
+.vuesaxlinearadd-icon {
+  position: absolute;
+  top: 0.25rem;
+  left: 39.13rem;
+  width: 2.12rem;
+  height: 2.12rem;
+}
+.frame-child,
+.rectangle-container {
+  position: relative;
+  width: 41.56rem;
+  height: 2.63rem;
+}
+.frame-child {
+  width: 7.75rem;
+  height: 1.5rem;
+}
+.instance-parent {
+  position: absolute;
+  top: 1.38rem;
+  left: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 14.06rem;
+  font-size: var(--font-size-mini);
+  color: #aeaeae;
+  font-family: var(--font-urbanist);
+}
+.navbar,
+.new-collection {
+  position: absolute;
+  top: 0;
+  font-family: var(--font-buda);
+}
+
+.navbar {
+    left: calc(50% - 720px);
+    background-color: var(--color-white);
+    width: 90rem;
+    height: 8.19rem;
+    overflow: hidden;
+    color: var(--color-black);
+}
+.navbar {
+  left: calc(50% - 720px);
+  background-color: var(--color-white);
+  width: 90rem;
+  height: 8.19rem;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.new-collection {
+    height: 2.9rem;
+    width: 16.375rem;
+  left: calc(50% - 132px);
+  font-size: 1.875rem;
+  font-weight: 300;
+  color: #C4A068;
+  font-family: Buda;
+}
+
+.rectangle-box {
+    top: 9rem;
+    position: absolute;
+    width: 100%;
+        height: 33.75rem;
+    background-color: #f2f2f2;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+precious-gems,
+.unlock-the-magic {
+  position: absolute;
+  text-transform: uppercase;}
+
+  .unlock-the-magic {
+    color: #FFF;
+    font-size: 1.8125rem;
+    
+        top: 0;
+        left: calc(50% - 175.5px);
+        font-weight: 300;
+    
+  }
+  
+
+  .precious-gems {
+    top: 2.25rem;
+    left: calc(50% - 244.5px);
+    font-size: 3.81rem;
+    font-family: var(--font-romans-story-demo);
+    color: var(--dark-gold, #C4A068);
+}
+    .unlock-the-magic-of-parent {
+        padding: 1rem;
+        position: absolute;
+        top: 7.31rem;
+        left: calc(50% - 232px);
+        width: 30.56rem;
+        height: 6.44rem;
+      }
+
+      
+      .image-1 {
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 33.56rem;
+        object-fit: cover;
+      }
+
+    
+
+    .navbar .rings a,
+.navbar .earrings1 a,
+.navbar .pendants a,
+.navbar .necklace1 a,
+.navbar .bangles-bracelets a,
+.navbar .chains a,
+.navbar .gifts a,
+.navbar .mangalsutra a  {
+  /* Add your styles for these specific links */
+  position: relative;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s ease-in-out;
+}
+
+.navbar .rings a:hover,
+.navbar .earrings1 a:hover,
+.navbar .pendants a:hover,
+.navbar .necklace1 a:hover,
+.navbar .bangles-bracelets a:hover,
+.navbar .chains a:hover,
+.navbar .gifts a:hover,
+.navbar .mangalsutra a:hover {
+  border-bottom-color: var(--dark-gold, #800020); /* Adjust color as needed */
+}
+
+.image-bottom-rectangle{
+    top: 23.44rem;
+  height: 10.13rem;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-urbanist);
+
+}
+.image-1-parent,
+.image-bottom-rectangle {
+  position: absolute;
+  left: 0;
+  width: 90rem;
+}
+
+.group-item a {
+    width: 3rem;
+    text-decoration: none;
+    font-family: Urbanist;
+    font-size: 0.9375rem;
+    font-weight: 400;
+    font-style: normal;
+    line-height: normal;
+    
+   color:  #FFF;
+    position: absolute;
+    top: -0.69rem;
+        left: 2.69rem;
+    text-transform: uppercase;
+  }
+
+  a{
+    font-weight: 500;
+    text-decoration: none;
+   color:  #000;
+  }
+
+  .child-bottom-rec{
+    position: absolute;
+    top: 4.25rem;
+    left: 43.31rem;
+    width: 13.44rem;
+    height: 3.5rem;
+    
+  }
+  .group-item{
+   width: 13.4375rem;
+   height: 3.5rem;
+    border: 2px solid white;
+    border-radius: 1rem;
+
+
+  }
+  
+
+  
+.group-parent1 {
+  position: absolute;
+  height: 100%;
+  width: 7.22%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 92.78%;}
+
+  .group-parent {
+    position: absolute;
+    top: 45rem; 
+    width: 73rem;
+    height: 7rem;
+    right: 10.72%;
+    bottom: 84.98%;
+    left: 10.76%;
+    font-size: var(--font-size-3xs);
+    color: var(--gray);
+  }
+  .necklace {
+    position: absolute;
+    top: 6.88rem;
+    left: 1.06rem;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  .vector-parent {
+    position: absolute;
+    height: 100%;
+    width: 10.24%;
+    top: 0;
+    right: 22.01%;
+    bottom: 0;
+    left: 67.75%;
+  }
+
+  .bracelet {
+    position: absolute;
+    top: 6.88rem;
+    left: 2.13rem;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  .pendents {
+    position: absolute;
+    top: 6.88rem;
+    left: 34.13rem;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  .earrings {
+    position: absolute;
+    top: 6.88rem;
+    left: 1.25rem;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  .group-group {
+    position: absolute;
+   width: 7.93288rem;
+height: 5rem;
+    top: 0;
+    right: 88.77%;
+    bottom: 0;
+    left: 0;
+  }
+
+  .ring {
+    position: absolute;
+    top: 6.88rem;
+    left: 3.25rem;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  .group-icon {
+    position: absolute;
+    height: 65.57%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 34.43%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+
+  .image-1-parent {
+    top: 9.31rem;
+    height: 33.56rem;
+    font-size: 1.81rem;
+    color: var(--color-white);
+    font-family: var(--font-buda);
+  }
+  .group-container {
+    position: absolute;
+    height: 100%;
+    width: 7.64%;
+    top: 0;
+    right: 66.36%;
+    bottom: 0;
+    left: 26%;
+  }
+
+  .image-2-icon {
+    position: absolute;
+    top: 0.06rem;
+    left: 29.44rem;
+    width: 111.19rem;
+    height: 35.63rem;
+    object-fit: cover;
+  }
+
+  .crafted-to-symbolize {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-transform: capitalize;
+  }
+
+  .love {
+    color:   #800020;
+    position: absolute;
+    top: 1.56rem;
+    left: 0.31rem;
+    font-size: 5rem;
+    letter-spacing: 0.31em;
+    text-transform: uppercase;
+    font-family: var(--font-bell-mt);
+  }
+
+
+  .crafted-to-symbolize-everlasti-parent {
+    position: absolute;
+    top: 13.25rem;
+    left: 7.31rem;
+    width: 18.25rem;
+    height: 7.13rem;
+  }
+
+
+  .frame-parent,
+.image-2{
+  position: absolute;
+  top: 1.06rem;
+  left: 82.69rem;
+  width: 33.63rem;
+  height: 33.63rem;
+}
+
+.image-2{
+    top: 56.06rem;
+    left: -34.31rem;
+    width: 119.44rem;
+    height: 35.69rem;
+    font-size: 1.25rem;
+    color: var(--color-black);
+  }
+
+  .view-collection {
+    position: absolute;
+    top: 1.31rem;
+    left: 2.69rem;
+    text-transform: uppercase;
+  }
+
+  .view-collection a {
+    color: #FFF;
+  }
+
+  .new-collection-parent {
+    position: absolute;
+    top: 95.88rem;
+    left: calc(50% - 699px);
+    width: 87.5rem;
+    height: 31.25rem;
+    font-size: var(--font-size-sm);
+    color: var(--gray);
+  }
+
+  .rectangle-parent {
+    top: 23.44rem;
+    height: 10.13rem;
+    font-size:mini;
+    font-family: var(--font-urbanist);
+  }
+
+  .group-child1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: white;
+    border: 1px solid whitesmoke-100;
+    box-sizing: border-box;
+    width: 20.5rem;
+    height: 26.5rem;}
+
+
+    .image-3-icon {
+        position: absolute;
+        top: 0.56rem;
+        left: 0.56rem;
+        width: 19.38rem;
+        height: 20.38rem;
+        object-fit: cover;
+      }
+      .group-child2 {
+        position: absolute;
+        top: 19.13rem;
+        left: 9.25rem;
+        width: 1.94rem;
+        height: 0.74rem;
+      }
+      .vuesaxtwotoneheart-icon {
+        position: absolute;
+        top: 1.25rem;
+        left: 17.94rem;
+        width: 1.5rem;
+        height: 1.5rem;
+      }
+
+      .alper-diamond-platinum {
+        color: #5B5B5B;
+        position: absolute;
+        top: 0;
+        left: 0;
+        text-transform: uppercase;
+        display: -webkit-inline-box;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -webkit-line-clamp: 9;
+        -webkit-box-orient: vertical;
+        width: 11.06rem;
+      }
+
+      .alper-diamond-platinum-band-pl-wrapper {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 11.06rem;
+        height: 0.75rem;
+      }
+
+      .div {
+        position: absolute;
+        top: 3.6rem;
+        left: 0;
+        font-size: var(--font-size-lg);
+        text-transform: uppercase;
+        font-weight: 500;
+       color:  #800020 ;     }
+
+      .group-parent2 {
+        position: absolute;
+        top: 22.13rem;
+        left: 1.19rem;
+        width: 11.06rem;
+        height: 2.44rem;
+      }
+
+      .rectangle-parent1,
+.rectangle-parent2,
+.rectangle-parent3,
+.rectangle-parent4 {
+  position: absolute;
+  top: 4.75rem;
+  left: 1.81rem;
+  width: 20.5rem;
+  height: 26.5rem}
+
+  .rectangle-parent2,
+.rectangle-parent3,
+.rectangle-parent4 {
+  left: 22.94rem;
+}
+
+.rectangle-parent3,
+.rectangle-parent4 {
+  left: 44.06rem;
+}
+
+.rectangle-parent4 {
+    left: 65.13rem;
+  }
+
+  .image-14-icon,
+.image-15-icon {
+  position: absolute;
+  object-fit: cover;}
+
+  .image-14-icon {
+    top: 132.44rem;
+    left: 0;
+    width: 44.69rem;
+    height: 51.63rem;}
+
+    .image-15-icon {
+        top: 143.19rem;
+        left: 55.94rem;
+        width: 20.5rem;
+        height: 25.06rem;}
+
+    .product-category-parent
+    {position: absolute;
+     top: 189.38rem;
+    left: calc(50% - 524px);
+    width: 65.56rem;
+    height: 33.13rem;
+    }
+
+      
+  .product-category {
+    font-weight: 300;
+    font-family: Buda;
+    color:  #C4A068;
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    left: calc(50% - 149.5px);
+    text-transform: uppercase;
+    font-weight: 300;
+  }
+
+  .group-parent6 {
+    position: absolute;
+  height: 28.63rem;
+    top: 4.5rem;
+    left: calc(50% - 524.5px);
+    width: 65.56rem;
+    font-size: var(--font-size-26xl);
+    color: var(--red);
+    font-family: var(--font-bell-mt);
+}
+.image-4-parent {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 216.5px);
+    width: 18.19rem;
+    height: 28.63rem;
+  }
+  .image-4-icon {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 145.5px);
+    border-radius: var(--br-3xs);
+    width: 18.19rem;
+    height: 28.63rem;
+    object-fit: cover;
+  }
+  .image-8-parent {
+    position: absolute;
+    top: 14.06rem;
+    left: 39rem;
+    width: 26.56rem;
+    height: 14.56rem;
+  }
+  .image-8-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    width: 26.56rem;
+    height: 14.56rem;
+    object-fit: cover;
+  }
+    .image-8-icon {
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: var(--br-3xs);
+        width: 26.56rem;
+        height: 14.56rem;
+        object-fit: cover;
+      }
+
+     
+
+      .image-5-parent {
+        position: absolute;
+        top: 0;
+        left: 39rem;
+        width: 12.5rem;
+        height: 12.5rem;
+        font-size: var(--font-size-11xl);
+        color: var(--pink);
+      }
+
+     
+
+      .image-7-parent {
+        position: absolute;
+        top: 0;
+        left: 53.06rem;
+        width: 12.5rem;
+        height: 12.5rem;
+        font-size: var(--font-size-11xl);
+        color: var(--dark-gold);
+      }
+
+      .image-9-icon {
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: var(--br-3xs);
+        width: 17.69rem;
+        height: 28.63rem;
+        object-fit: cover;
+      }
+
+      .braclet {
+        position: absolute;
+        top: 2.25rem;
+        left: 2.38rem;
+        text-transform: uppercase;
+      }
+
+
+      .image-9-parent {
+        top: 0;
+        left: 0;
+        width: 17.69rem;
+        color: var(--dark-gold);
+      }
+
+      .earring {
+        position: absolute;
+        top: -0.12rem;
+          left: 1.94rem;
+        text-transform: uppercase;
+      }
+      .necklace2 {
+        position: absolute;
+        top: 9.88rem;
+        left: 6.56rem;
+        text-transform: uppercase;
+      }
+
+
+      .image-8-icon {
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: var(--br-3xs);
+        width: 26.56rem;
+        height: 14.56rem;
+        object-fit: cover;
+      }
+
+      .image-5-icon {
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: var(--br-3xs);
+        width: 12.5rem;
+        height: 12.5rem;
+        object-fit: cover;
+      }
+
+      .ring1 {
+        color: #800020;
+        font-size: 2.8125rem;
+        position: absolute;
+        top: 6.25rem;
+        left: 5.5rem;
+        text-transform: uppercase;
+      }
+
+      .necklace2 {
+        color: #800020;
+        font-size: 2.8125rem;
+        position: absolute;
+        top: 9.88rem;
+        left: 6.56rem;
+        text-transform: uppercase;
+      }
+
+      .earring {
+        color: #F7CBCA;
+        font-size: 1.875rem;
+        position: absolute;
+        top: -0.12rem;
+          left: 1.94rem;
+        text-transform: uppercase;
+      }
+      
+
+      .pendent {
+        position: absolute;
+        top: 10rem;
+        left: 1.63rem;
+        text-transform: uppercase;
+      }
+
+      .desktop-2-inner,
+.group-parent7 {
+  position: absolute;
+  width: 11.06rem;
+  height: 2.44rem;
+}
+
+.desktop-2-inner {
+    top: 169.13rem;
+    left: 56rem;
+    font-size: var(--font-size-sm);
+    color: var(--gray);
+  }
+
+  .group-parent7 {
+    top: 0;
+  }  
+
+  .image-13-icon {
+    width: 100%;
+    top: 0;
+    left: 0.13rem;
+    object-fit: cover;
+  }
+
+  .image-13-icon,
+.subtract-child {
+  position: absolute;
+  width: 100%;
+    height: 34.88rem;
+}
+
+.subtract-child {
+    top: 228.75rem;
+    left: -0.12rem;
+    background-color: rgba(0, 0, 0, 0.87);
+  }
+
+  .beauty {
+    position: absolute;
+    top: 9rem;
+    left: calc(50% - 490.5px);
+    text-transform: uppercase;
+  }
+
+  .subtract {
+    position: relative;
+    background-color: rgba(128, 0, 32, 0.78);
+    height: 34.88rem;
+    width: 100%;
+  }
+
+
+  .discover-timeless {
+    position: absolute;
+    top: 8.31rem;
+    left: calc(50% - 202.5px);
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-family: var(--font-bell-mt);
+  } 
+  
+  .image-13-parent {
+    position: absolute;
+    top: 228.75rem;
+    left: -0.12rem;
+    width: 100%;
+    height: 34.88rem;
+    font-size: 15.63rem;
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+
+  .red {
+    color: red;
+  }
+
+
+  .collections-youll-love {
+    font-family: Buda;
+    color:  #C4A068;
+    font-size: 1.875rem;
+    position: absolute;
+    top: 0;
+    left: calc(50% - 193.5px);
+    text-transform: uppercase;
+    font-weight: 300;
+  }
+
+  .collections-youll-love-parent {
+    position: absolute;
+    top: 268.94rem;
+    left: calc(50% - 567px);
+    width: 70.94rem;
+    height: 37.56rem;
+    font-size: var(--font-size-11xl);
+    font-family: var(--font-buda);
+  }
+
+  
+.image-10-icon,
+.image-11-icon,
+.image-12-icon {
+  position: absolute;
+  top: 4.88rem;
+  height: 32.69rem;
+  object-fit: cover;
+}
+
+.image-10-icon {
+    left: 0;
+    width: 23.38rem;
+  }
+  .image-11-icon,
+  .image-12-icon {
+    left: 23.81rem;
+    width: 23.31rem;
+  }
+  .image-12-icon {
+    left: 47.56rem;
+    width: 23.38rem;
+  }
+
+  .about-us {
+    position: absolute;
+    top: 320.88rem;
+    left: 10.19rem;
+    font-size: var(--font-size-mini);
+    text-transform: uppercase;
+    font-family: var(--font-bell-mt);
+  }
+  .about-company {
+    margin: 0;
+  }
+  .about-company-terms-container {
+    position: absolute;
+    top: 324.44rem;
+    left: 10.19rem;
+    line-height: 2.56rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--gray);
+  }
+  .jewelers {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-transform: uppercase;
+  }
+  .ring-necklace-bracelet-container {
+    position: absolute;
+    top: 3.56rem;
+    left: 0;
+    font-size: var(--font-size-xs);
+    line-height: 2.56rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: var(--font-urbanist);
+    color: var(--gray);
+  }
+
+  .contact-parent,
+.jewelers-parent,
+.why-kirti-kunj-parent {
+  position: absolute;
+  top: 320.88rem;
+  left: 24.25rem;
+  width: 5.06rem;
+  height: 18.94rem;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-bell-mt);
+}
+
+.about-company {
+    margin: 0;
+  }
+
+  .contact-parent,
+.why-kirti-kunj-parent {
+  left: 37.69rem;
+  width: 7.88rem;
+  height: 16.38rem;
+}
+
+.contact-parent {
+    left: 51.75rem;
+    width: 8.88rem;
+    height: 11.25rem;
+  }
+
+  .image-16-icon {
+    position: absolute;
+    top: 322.75rem;
+    left: 66.44rem;
+    width: 20.44rem;
+    height: 12.25rem;
+    object-fit: cover;
+  }
+
+
+  .get-direction {
+    color:#C4A068;
+    position: absolute;
+    top: 0.19rem;
+    left: 0;
+    text-transform: uppercase;
+  }
+  .vuesaxoutlinearrow-up-icon {
+    position: absolute;
+    top: 0;
+    left: 18.94rem;
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .get-direction-parent,
+  .harlalka-rd-chaharsu {
+    position: absolute;
+    left: 66.44rem;
+    width: 20.44rem;
+  }
+  .get-direction-parent {
+    top: 320.88rem;
+    height: 1.5rem;
+    font-size: var(--font-size-mini);
+    font-family: var(--font-bell-mt);
+  }
+  .harlalka-rd-chaharsu {
+    top: 336.06rem;
+    text-transform: capitalize;
+    color: var(--gray);
+    display: inline-block;
+  }
+  .instance-child1 {
+    position: relative;
+    width: 4.49rem;
+    height: 1.16rem;
+  }
+  .group-parent8 {
+    position: absolute;
+    top: 312.63rem;
+    left: 42.44rem;
+    display: flex;
+    flex-direction: column;
+    padding: var(--padding-8xs);
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.31rem;
+  }
+  .line-div {
+    position: absolute;
+    top: 353.97rem;
+    left: 3.09rem;
+    border-top: 1px solid #8a8a8a;
+    box-sizing: border-box;
+    width: 100%;    height: 0.06rem;
+  }
+  .kirtikunjcom-all,
+  .we-accept {
+    position: absolute;
+    top: 355.25rem;
+    left: 10.19rem;
+    text-transform: uppercase;
+    color: var(--color-black);
+  }
+  .we-accept {
+    left: 56.19rem;
+    font-weight: 500;
+  }
+  .mastercard-png,
+  .paypal-png,
+  .paytm-png,
+  .rupay-png,
+  .visa-inc-png {
+    position: absolute;
+    top: 355.06rem;
+    left: 70.94rem;
+    width: 3.81rem;
+    height: 1.19rem;
+    object-fit: cover;
+  }
+  .mastercard-png,
+  .paypal-png,
+  .paytm-png,
+  .rupay-png {
+    left: 76.13rem;
+    width: 4.13rem;
+  }
+  .mastercard-png,
+  .paypal-png,
+  .rupay-png {
+    left: 61.63rem;
+    width: 4.56rem;
+  }
+  .mastercard-png,
+  .rupay-png {
+    left: 67.63rem;
+    width: 1.94rem;
+  }
+  .rupay-png {
+    top: 355rem;
+    left: 81.63rem;
+    width: 5.25rem;
+    height: 1.38rem;
+  }
+  .paypal-png{
+    left :62.63rem;
+  }
+  .desktop-2 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 357.5rem;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--dark-gold);
+    font-family: var(--font-urbanist);
+  }
+  
+  .vuesaxtwotoneheart-icon.red {
+    filter: invert(15%) sepia(100%) saturate(7453%) hue-rotate(343deg) brightness(95%) contrast(114%);
+  }
+
+  .about-us,
+  .jewelers,
+  .why-kirti{
+    color: #C4A068;
+    font-family: Bell MT;
+  }
+
+  .kirtikunj-line1,
+  .kirtikunj-line2
+  {
+    top: 314.8rem;
+    background: #C4A068;
+    position: absolute;
+    left: -10rem;
+    height: 0.1rem;
+    width: 50.5rem;
+
+  }
+
+  .kirtikunj-line2{
+   left:  48.8rem;
+  }
+  
+  
+  
