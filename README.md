@@ -2,4 +2,4 @@
 Its a simple jewellerey site UI made using HTML CSS and JavaScript
 
 Deployed Link-
-https://timely-pegasus-7431f5.netlify.app/
+https://super-babka-28e86e.netlify.app/
